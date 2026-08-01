@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saniasaha/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saniasaha/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saniasaha/leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/saniasaha/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saniasaha/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/saniasaha/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/saniasaha/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saniasaha/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/saniasaha/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/saniasaha/leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/saniasaha/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saniasaha/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniasaha/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saniasaha/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/saniasaha/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/saniasaha/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saniasaha/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/saniasaha/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/saniasaha/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
